@@ -62,5 +62,4 @@ A simple and responsive web application for managing daily tasks. This full-stac
 
 ## Author
 
--   **[Your Name]** - [Your LinkedIn Profile URL]
--   **[Your GitHub Profile]** - [Your GitHub Profile URL]
+-   **Dhanesh Pipaliya** - linkedin.com/in/dhaneshpipaliya
